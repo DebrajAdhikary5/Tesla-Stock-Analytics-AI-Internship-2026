@@ -73,9 +73,13 @@ e:\IBM\
 └── [Generated on first run]
     ├── Tesla_Stock_Analytics_Report.docx  ← Auto-generated Word report
     └── charts/
-        ├── tesla_dashboard.png            ← 6-panel analytical dashboard
+        ├── ![Dash_bord](tesla_dashboard.png)            ← 6-panel analytical dashboard
         └── tesla_kpi_summary.png          ← KPI and feature importance chart
 ```
+
+##Data Visualization
+- Created a 6-panel analytical dashboard ![Tesla Stock Analytics Dashboard](charts/tesla_dashboard.png) and KPI summary chart ![KPI Summary](charts/tesla_kpi_summary.png) to explore price trends, moving averages, trading volume, return distribution, rolling volatility, actual vs predicted prices, and feature influence.
+- Conducted trend analysis, KPI analysis, and feature influence analysis.
 
 ---
 
