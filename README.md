@@ -73,7 +73,7 @@ e:\IBM\
 └── [Generated on first run]
     ├── Tesla_Stock_Analytics_Report.docx  ← Auto-generated Word report
     └── charts/
-        ├── ![Dash_bord](tesla_dashboard.png)            ← 6-panel analytical dashboard
+        ├── tesla_dashboard.png            ← 6-panel analytical dashboard
         └── tesla_kpi_summary.png          ← KPI and feature importance chart
 ```
 
